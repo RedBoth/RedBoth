@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @RedBoth
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript and react
-- 💞️ I’m looking to collaborate on modern projects
-- 📫 How to reach me ...
+<h1 align="center">👋 Hi, I’m @RedBoth</h1>
+<h3>Acerca de mí</h3>
+Aprendiendo a ser <b>Frontend Developer</b>, entusiasmado por el mundo de la tecnologia.
+
+
+-  Actualmente estoy aprendiendo sobre...
+    - Astro
+    - NextJs
+-  Busco colaborar en proyectos **open source**
+-  Hobbies
+   -  Videojuegos
+   -  Musica
+   -  Libros
+-  Pueden contactarme en: <a href="mauro.kolman1255@gmail.com">mauro.kolman1255@gmail.com</a>
 
 <!---
 RedBoth/RedBoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
